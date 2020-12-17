@@ -1,4 +1,4 @@
-import Router from "./pages/Router";
+import Router from "./Router/Router";
 import Nav from "./components/Nav";
 import React, { useState, useEffect, useContext } from "react";
 import { Context } from "./context/index";
